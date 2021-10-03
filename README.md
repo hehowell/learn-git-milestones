@@ -118,9 +118,9 @@ You should be able to perform a basic Git workflow using Github.com, the command
 ### In Github Desktop
 You should be able to ...
 
-- [ ] Install [Atom](https://atom.io/) on your machine
+- [x] Install [Atom](https://atom.io/) on your machine
 	- [x] Connect your Github account in Atom
-- [ ] Install [Github Desktop](https://desktop.github.com/)
+- [x] Install [Github Desktop](https://desktop.github.com/)
 	- [x] Connect your Github account in Github Desktop
 	- [x] In Github Desktop, clone the fork (you made above) [learn-git-milestones](https://github.com/omundy/learn-git-milestones) ...
 	- [x] File > Clone Repository > Github.com and select it ...
@@ -139,7 +139,7 @@ You should be able to ...
 You should have a basic familiarity with the command line to install Git. Some folks use the CLI as their default tool for editing and publishing source code, but Atom makes it much easier.
 
 - [x] If you haven't yet, complete the [command line crash course](https://github.com/omundy/learn-computing/blob/main/topics-command-line.md#crash-course)
-- [ ] In Github Desktop, with the [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repo you cloned above selected, click Repository > Open in Terminal ("Bash" in Windows?)
+- [x] In Github Desktop, with the [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repo you cloned above selected, click Repository > Open in Terminal ("Bash" in Windows?)
 - [x] Use the CLI to navigate directories  
   - [x] List files in this directory: `ls`
   - [x] List files in this directory, including hidden: `ls -la`  
@@ -202,7 +202,7 @@ You should be able to ...
 ## Create a Github.io page
 Create a github.io site for your repository ...
 
-- [ ] ✏️ Create a file called `index.html` in your new repo and add the following html
+- [x] ✏️ Create a file called `index.html` in your new repo and add the following html
 
 ```html
 <!DOCTYPE html>
@@ -219,13 +219,13 @@ Create a github.io site for your repository ...
 </html>
 ```
 
-- [ ] Set up a [Github page](https://pages.github.com/) "project site" for your repo
-  - [ ] On Github.com, go to your repo > Settings, and scroll down to the Github Pages section
-  - [ ] Select the main branch source and click save
-  - [ ] Do not use a theme. Start from scratch
-  - [ ] Visit your project site at http://*username*.github.io/my-awesome-project
-  - [ ] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
-  - [ ] ✏️ Paste this link here:
+- [x] Set up a [Github page](https://pages.github.com/) "project site" for your repo
+  - [x] On Github.com, go to your repo > Settings, and scroll down to the Github Pages section
+  - [x] Select the main branch source and click save
+  - [x] Do not use a theme. Start from scratch
+  - [x] Visit your project site at http://*username*.github.io/my-awesome-project
+  - [x] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
+  - [x] ✏️ Paste this link here:
 
 
 
@@ -235,10 +235,10 @@ Create a github.io site for your repository ...
 ## Turn in this Assignment
 Now that we have basic Git commands out of the way use Git to create and turn in your assignment ...
 
-- [ ] Complete all of the items on this README
-- [ ] Test your file(s) in a web browser
-- [ ] Commit and push the files to Github
-- [ ] Paste the github.io link into the appropriate Moodle forum
+- [x] Complete all of the items on this README
+- [x] Test your file(s) in a web browser
+- [x] Commit and push the files to Github
+- [x] Paste the github.io link into the appropriate Moodle forum
 
 
 
